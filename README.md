@@ -1,7 +1,7 @@
 # Roblox-scriptz
+just copy the loadstring not this ```lua
+```
 
-script/
-
-
-
+```lua
 loadstring(game:HttpGet("https://paste.ee/r/LqxMvQZO"))()
+```
