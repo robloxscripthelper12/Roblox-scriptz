@@ -1,6 +1,8 @@
 # Roblox-scriptz
-just copy 
+just
 
 
+
+```lua
 loadstring(game:HttpGet("https://paste.ee/r/LqxMvQZO"))()
 ```
